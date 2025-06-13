@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532842959139",
+    "project_id": "dizi-5f248",
+    "storage_bucket": "dizi-5f248.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532842959139:android:1db9f78e1c65ec485bbc96",
+        "android_client_info": {
+          "package_name": "com.mycompany.dizi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp_KgEDLiofE5lzblgyuhEvRd_9vDyIVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

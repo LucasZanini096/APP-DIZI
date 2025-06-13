@@ -1,0 +1,32 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "chat_messages",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "chat_user",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "agenda",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "usuario",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Data_Fim",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
